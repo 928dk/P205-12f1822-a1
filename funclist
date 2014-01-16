@@ -1,0 +1,9 @@
+_Init_AD: CODE, 1923 0 15
+_InitTimer1: CODE, 1891 0 6
+_main: CODE, 1953 0 95
+_Init_PWM: CODE, 1903 0 10
+__initialization: CODE, 1897 0 4
+_Init_IO: CODE, 1913 0 10
+_Init12f1822: CODE, 1938 0 15
+_InitInt: CODE, 1885 0 6
+Total: 161
